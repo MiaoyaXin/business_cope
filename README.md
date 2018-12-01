@@ -5,5 +5,8 @@
 
 2 BusinessScopeAndProduct：对给定经营范围和产品进行关联分析。
 
-参考：
+感谢：
+
 1 https://github.com/hankcs/HanLP
+
+2 https://github.com/shibing624/similarity
